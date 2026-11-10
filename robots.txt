@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghostratedhoops.github.io/sitemap.xml
